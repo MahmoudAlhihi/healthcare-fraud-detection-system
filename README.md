@@ -1,1 +1,2 @@
-# fraud-detection-system
+# HealthCare Fraud Detection System
+## An end-to-end healthcare fraud detection system that ingests Medicare/insurance claims data, runs it through a trained ML model, and serves predictions via a FastAPI backend with a lightweight web frontend, all containerized and deployed on AWS.
